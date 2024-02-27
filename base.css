@@ -1,5 +1,6 @@
 h1 {
-    font-size: 40px;
+    font-size: 38px;
+    font-family: Georgia;
   }
 
   h2 {
@@ -14,7 +15,7 @@ h1 {
   
   footer{
     text-align: center;
-    background-color: #7a5901
+    background-color: #D6ECFF
   }
 
   div {
@@ -24,17 +25,17 @@ h1 {
   .title {
     font-size: 60px;
     font-weight: 700;
+    text-shadow: 2px 2px 4px #ffffff;
   }
 
   .header{
     text-align: center;
+    background-color: #D6ECFF
   }
 
-  .header{
-    text-align: center;
-    background-color: #7a5901
-  }
-
-  .header{
-    text-align: center;
+  img{ 
+      float: right;
+      width:  400px;
+      height: 400px;
+      object-fit: cover;
   }
