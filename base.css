@@ -1,5 +1,13 @@
 body{
-  background-color: #D6ECFF;
+  background-color: white;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+header{
+  text-align: center;
+  background-color: #D6ECFF
 }
 
 h1 {
@@ -26,15 +34,10 @@ h1 {
     background-color: white
   }
 
-  .title {
+  #title {
     font-size: 60px;
     font-weight: 700;
     text-shadow: 2px 2px 4px #ffffff;
-  }
-
-  .header{
-    text-align: center;
-    background-color: #D6ECFF
   }
 
   img{ 
